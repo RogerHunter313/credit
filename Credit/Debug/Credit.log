@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\roger\Desktop\Harvard CS 50 2021\Credit\Credit\main.cpp(16,14): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\roger\Desktop\Harvard CS 50 2021\Credit\Credit\main.cpp(18,14): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\roger\Desktop\Harvard CS 50 2021\Credit\Credit\main.cpp(20,14): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\roger\Desktop\Harvard CS 50 2021\Credit\Credit\main.cpp(22,14): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\roger\Desktop\Harvard CS 50 2021\Credit\Credit\main.cpp(79,20): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\roger\Desktop\Harvard CS 50 2021\Credit\Credit\main.cpp(102,20): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'int', possible loss of data
+  Credit.vcxproj -> C:\Users\roger\Desktop\Harvard CS 50 2021\Credit\Debug\Credit.exe
